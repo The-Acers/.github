@@ -13,7 +13,7 @@ At **The ACE**, we celebrate:
 
 ## 🛠️ How to Contribute Your Project
 Want to showcase your project here? Follow these simple steps:
-1. **Fork this repository**
+1. **Fork the showcase repository**
 2. **Add your project** under the `projects/` folder
    - Create a new folder for your project named after your project title.
    - Include a `README.md` that describes your project and what it does.
