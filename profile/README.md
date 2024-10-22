@@ -20,7 +20,7 @@ Want to showcase your project here? Follow these simple steps:
 3. **Submit a pull request** and we’ll proudly display it!
 
 ## 🙌 Join The Community
-Whether you're a coder, designer, or simply curious, **The ACE** is the place to grow, collaborate, and create. Check out our [official community page](#) to learn more and get involved.
+Whether you're a coder, designer, or simply curious, **The ACE** is the place to grow, collaborate, and create. Check out our [official community page](https://commudle.com/the-ace) to learn more and get involved.
 
 ---
 
